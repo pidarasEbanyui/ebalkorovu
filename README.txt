@@ -1,0 +1,1 @@
+﻿If you have not previously used the visual studio and do not know what a sln file is, just run the basic builder.
